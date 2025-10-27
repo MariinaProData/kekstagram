@@ -1,4 +1,5 @@
-import '../vendor/nouislider/nouislider.js';
+import noUiSlider from 'nouislider';
+import 'nouislider/dist/nouislider.css';
 import { round } from './utils.js';
 
 const DEFAULT_STEP = 0.1;

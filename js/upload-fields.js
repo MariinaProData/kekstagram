@@ -1,4 +1,4 @@
-import '../vendor/pristine/pristine.min.js';
+import Pristine from 'pristinejs';
 
 const HASHTAGS_LIMIT = 5;
 const HASHTAG_MAXLENGTH = 20;
